@@ -44,7 +44,7 @@ sudo chmod +x PaxOS8
 
 ssh -X add@10.0.2.15
 
-sudo su
+#sudo su
 
 sudo apt-get install xorg -y
 
